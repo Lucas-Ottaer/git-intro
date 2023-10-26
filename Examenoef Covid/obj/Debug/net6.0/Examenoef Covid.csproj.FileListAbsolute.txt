@@ -1,0 +1,26 @@
+C:\Users\lucas\source\repos\Examenoef Covid\bin\Debug\net6.0\Examenoef Covid.exe
+C:\Users\lucas\source\repos\Examenoef Covid\bin\Debug\net6.0\1.txt
+C:\Users\lucas\source\repos\Examenoef Covid\bin\Debug\net6.0\10.txt
+C:\Users\lucas\source\repos\Examenoef Covid\bin\Debug\net6.0\11.txt
+C:\Users\lucas\source\repos\Examenoef Covid\bin\Debug\net6.0\12.txt
+C:\Users\lucas\source\repos\Examenoef Covid\bin\Debug\net6.0\2.txt
+C:\Users\lucas\source\repos\Examenoef Covid\bin\Debug\net6.0\3.txt
+C:\Users\lucas\source\repos\Examenoef Covid\bin\Debug\net6.0\4.txt
+C:\Users\lucas\source\repos\Examenoef Covid\bin\Debug\net6.0\5.txt
+C:\Users\lucas\source\repos\Examenoef Covid\bin\Debug\net6.0\6.txt
+C:\Users\lucas\source\repos\Examenoef Covid\bin\Debug\net6.0\7.txt
+C:\Users\lucas\source\repos\Examenoef Covid\bin\Debug\net6.0\8.txt
+C:\Users\lucas\source\repos\Examenoef Covid\bin\Debug\net6.0\9.txt
+C:\Users\lucas\source\repos\Examenoef Covid\bin\Debug\net6.0\Examenoef Covid.deps.json
+C:\Users\lucas\source\repos\Examenoef Covid\bin\Debug\net6.0\Examenoef Covid.runtimeconfig.json
+C:\Users\lucas\source\repos\Examenoef Covid\bin\Debug\net6.0\Examenoef Covid.dll
+C:\Users\lucas\source\repos\Examenoef Covid\bin\Debug\net6.0\Examenoef Covid.pdb
+C:\Users\lucas\source\repos\Examenoef Covid\obj\Debug\net6.0\Examenoef Covid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\Examenoef Covid\obj\Debug\net6.0\Examenoef Covid.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\Examenoef Covid\obj\Debug\net6.0\Examenoef Covid.AssemblyInfo.cs
+C:\Users\lucas\source\repos\Examenoef Covid\obj\Debug\net6.0\Examenoef Covid.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\Examenoef Covid\obj\Debug\net6.0\Examenoef Covid.dll
+C:\Users\lucas\source\repos\Examenoef Covid\obj\Debug\net6.0\refint\Examenoef Covid.dll
+C:\Users\lucas\source\repos\Examenoef Covid\obj\Debug\net6.0\Examenoef Covid.pdb
+C:\Users\lucas\source\repos\Examenoef Covid\obj\Debug\net6.0\Examenoef Covid.genruntimeconfig.cache
+C:\Users\lucas\source\repos\Examenoef Covid\obj\Debug\net6.0\ref\Examenoef Covid.dll
